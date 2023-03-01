@@ -1,4 +1,4 @@
-# Dia 06 - Busca por Municípios Brasileiros
+# Desafio JavaScript - Busca por Municípios Brasileiros
 
 ![Busca Municipios Brasileiros](./captured.gif?raw=true "Busca Municipios Brasileiros")
 
